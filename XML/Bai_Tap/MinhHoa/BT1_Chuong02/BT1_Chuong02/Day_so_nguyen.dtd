@@ -1,0 +1,5 @@
+﻿<!ELEMENT DAYSO (SO+)>
+<!ELEMENT SO  EMPTY>
+<!ATTLIST SO
+  Gia_tri CDATA #REQUIRED
+  >

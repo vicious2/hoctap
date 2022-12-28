@@ -1,0 +1,10 @@
+Z:\Projects\BT1_Chuong02\BT1_Chuong02\bin\Debug\BT1_Chuong02.exe
+Z:\Projects\BT1_Chuong02\BT1_Chuong02\bin\Debug\BT1_Chuong02.pdb
+Z:\Projects\BT1_Chuong02\BT1_Chuong02\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Projects\BT1_Chuong02\BT1_Chuong02\obj\x86\Debug\BT1_Chuong02.Properties.Resources.resources
+Z:\Projects\BT1_Chuong02\BT1_Chuong02\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Projects\BT1_Chuong02\BT1_Chuong02\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Projects\BT1_Chuong02\BT1_Chuong02\obj\x86\Debug\BT1_Chuong02.exe
+Z:\Projects\BT1_Chuong02\BT1_Chuong02\obj\x86\Debug\BT1_Chuong02.pdb
+H:\C15A.TH\XML\Bai_Tap\MinhHoa\BT1_Chuong02\BT1_Chuong02\obj\x86\Debug\BT1_Chuong02.exe
+H:\C15A.TH\XML\Bai_Tap\MinhHoa\BT1_Chuong02\BT1_Chuong02\obj\x86\Debug\BT1_Chuong02.pdb

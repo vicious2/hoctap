@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Da_giac"
+    targetNamespace="http://tempuri.org/Da_giac.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Da_giac.xsd"
+    xmlns:mstns="http://tempuri.org/Da_giac.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="DAGIAC" type="KIEU_DAGIAC">    
+  </xs:element>
+  
+  <xs:complexType name="KIEU_DAGIAC">
+    <xs:sequence>
+      <xs:element name="DIEM" type="K_DIEM" minOccurs="3" maxOccurs="unbounded" />
+    </xs:sequence>
+  </xs:complexType>
+  
+  <xs:complexType name="K_DIEM">
+    <xs:attribute name="Ten" type="xs:string" />
+    <xs:attribute name="x" type="xs:int" />
+    <xs:attribute name="y" type="xs:int" />
+  </xs:complexType>
+</xs:schema>

@@ -67,6 +67,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Dondathang.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Thongtincanhan.aspx" />
     <Content Include="Web.config" />
@@ -74,6 +75,13 @@
     <Content Include="WebForm2.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dondathang.aspx.cs">
+      <DependentUpon>Dondathang.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Dondathang.aspx.designer.cs">
+      <DependentUpon>Dondathang.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

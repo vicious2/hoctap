@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Nha_sach"
+    targetNamespace="http://tempuri.org/Nha_sach.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Nha_sach.xsd"
+    xmlns:mstns="http://tempuri.org/Nha_sach.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+  <xs:element name="PN" type="K_PN"></xs:element>
+
+  <xs:complexType name="K_PN">
+    <xs:sequence>
+      <xs:element name="book" type="K_BOOK" minOccurs="0" maxOccurs="unbounded"></xs:element>
+    </xs:sequence>
+    <xs:attribute name="name" type="xs:string" fixed="Nhà sách Phương Nam"></xs:attribute>
+    <xs:attribute name="year" type="xs:int"></xs:attribute> 
+  </xs:complexType>
+
+  <xs:complexType name="K_BOOK">
+    <xs:sequence>
+      <xs:element name="title" type="xs:string"></xs:element>
+      <xs:element name="author" type="xs:string"></xs:element>
+      <xs:element name="price" type="K_SONGUYENDUONG"></xs:element>
+    </xs:sequence>
+    <xs:attribute name="ID" type="xs:string"></xs:attribute>
+  </xs:complexType>
+
+  <xs:simpleType name="K_SONGUYENDUONG">
+    <xs:restriction base="xs:int">
+      <xs:minInclusive value="0"></xs:minInclusive>
+    </xs:restriction>
+  </xs:simpleType>
+</xs:schema>

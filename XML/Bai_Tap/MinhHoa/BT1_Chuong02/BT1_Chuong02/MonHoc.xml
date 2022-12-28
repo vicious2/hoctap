@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DSMH xmlns="http://tempuri.org/Mon_hoc.xsd">
+  <MONHOC>
+    <MAMH>001</MAMH>
+    <TENMH>Lap trinh PHP</TENMH>
+    <SOTC>2</SOTC>    
+  </MONHOC>
+  <MONHOC>
+    <MAMH>002</MAMH>
+    <TENMH>Lap trinh C#</TENMH>
+    <SOTC>5</SOTC>
+  </MONHOC>
+  <MONHOC>
+    <MAMH>003</MAMH>
+    <TENMH>Cong nghe XML</TENMH>
+    <SOTC>3</SOTC>
+  </MONHOC>
+
+</DSMH>
