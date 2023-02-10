@@ -11,7 +11,7 @@ namespace Lab01
 {
 
 
-    public partial class WebForm1
+    public partial class WebForm3
     {
 
         /// <summary>
@@ -24,22 +24,22 @@ namespace Lab01
         protected global::System.Web.UI.HtmlControls.HtmlForm form1;
 
         /// <summary>
-        /// FUpload control.
+        /// lbToday control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.FileUpload FUpload;
+        protected global::System.Web.UI.WebControls.Label lbToday;
 
         /// <summary>
-        /// btnXuly control.
+        /// clNgaySinhNhat control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.Button btnXuly;
+        protected global::System.Web.UI.WebControls.Calendar clNgaySinhNhat;
 
         /// <summary>
         /// lbThongbao control.
