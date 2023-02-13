@@ -67,16 +67,24 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="DangKyThanhVien.aspx" />
     <Content Include="Dondathang.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Thongtincanhan.aspx" />
     <Content Include="Web.config" />
     <Content Include="WebForm1.aspx" />
-    <Content Include="WebForm2.aspx" />
+    <Content Include="tinhtoan.aspx" />
     <Content Include="Lich.aspx" />
     <Content Include="Panels.aspx" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DangKyThanhVien.aspx.cs">
+      <DependentUpon>DangKyThanhVien.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="DangKyThanhVien.aspx.designer.cs">
+      <DependentUpon>DangKyThanhVien.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Dondathang.aspx.cs">
       <DependentUpon>Dondathang.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -102,12 +110,12 @@
     <Compile Include="WebForm1.aspx.designer.cs">
       <DependentUpon>WebForm1.aspx</DependentUpon>
     </Compile>
-    <Compile Include="WebForm2.aspx.cs">
-      <DependentUpon>WebForm2.aspx</DependentUpon>
+    <Compile Include="tinhtoan.aspx.cs">
+      <DependentUpon>tinhtoan.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="WebForm2.aspx.designer.cs">
-      <DependentUpon>WebForm2.aspx</DependentUpon>
+    <Compile Include="tinhtoan.aspx.designer.cs">
+      <DependentUpon>tinhtoan.aspx</DependentUpon>
     </Compile>
     <Compile Include="Lich.aspx.cs">
       <DependentUpon>Lich.aspx</DependentUpon>
