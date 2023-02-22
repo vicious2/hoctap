@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE DAYSO SYSTEM "Day_so_nguyen.dtd">
+<DAYSO>
+  <SO Gia_tri="1"/>
+  <SO Gia_tri="4"/>
+  <SO Gia_tri="5"/>
+  <SO Gia_tri="-9"/>
+  <SO Gia_tri="10"/>
+</DAYSO>

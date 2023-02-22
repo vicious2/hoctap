@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE CACHOADON SYSTEM "TienDien.dtd">
+<CACHOADON>
+  <HDTIENDIEN  Thang="01" TuNgay="01/01/2018" DenNgay="31/01/2018" CongTy="Công ty điện lực TP.HCM"  >
+    <KHACHHANG>
+      <HOTEN GT="Nam">Hoàng Anh</HOTEN>
+      <DIACHI>342 Hoàng Văn Thụ Q.PN</DIACHI>
+      <CHITIET>
+        <CHISOMOI>560</CHISOMOI>
+        <CHISOCU>500</CHISOCU>
+        <HESO>1</HESO>
+        <DONGIA>650</DONGIA>
+      </CHITIET>      
+    </KHACHHANG>
+    <KHACHHANG>
+      <HOTEN GT="Nữ">Trần Thị Mai</HOTEN>
+      <DIACHI>132 Quang Trung Q.Gò Vấp</DIACHI>
+      <SODT>0908256400</SODT>
+      <CHITIET>
+        <CHISOMOI>760</CHISOMOI>
+        <CHISOCU>560</CHISOCU>
+        <HESO>2</HESO>
+        <DONGIA>1200</DONGIA>
+      </CHITIET>
+    </KHACHHANG>
+  </HDTIENDIEN> 
+</CACHOADON>

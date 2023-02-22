@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DAYSO xmlns="http://tempuri.org/Day_so_nguyen.xsd">
+  <SO Gia_tri="1"/>
+  <SO Gia_tri="4"/>
+  <SO Gia_tri="5"/>
+  <SO Gia_tri="-9"/>
+  <SO Gia_tri="10"/>
+</DAYSO>

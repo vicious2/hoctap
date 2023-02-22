@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Day_so_nguyen"
+    targetNamespace="http://tempuri.org/Day_so_nguyen.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Day_so_nguyen.xsd"
+    xmlns:mstns="http://tempuri.org/Day_so_nguyen.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+  <xs:element name="DAYSO" type="K_DAYSO"></xs:element>
+  
+  <xs:complexType name="K_DAYSO">
+    <xs:sequence>
+      <xs:element name="SO" type="K_SO" minOccurs="1" maxOccurs="unbounded"></xs:element>
+    </xs:sequence>
+  </xs:complexType>
+  
+  <xs:complexType name="K_SO">
+    <xs:attribute name="Gia_tri" type="xs:int" />
+  </xs:complexType>
+</xs:schema>

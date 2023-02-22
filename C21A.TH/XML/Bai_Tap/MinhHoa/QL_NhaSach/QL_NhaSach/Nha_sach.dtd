@@ -1,0 +1,15 @@
+﻿<!---Dac ta the-->
+<!ELEMENT PN (book*)>
+<!ELEMENT book (title, author, price)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+
+<!---Dac ta thuoc tinh cua the-->
+<!ATTLIST PN  
+   name  CDATA  #FIXED "Nhà sách Phương Nam"
+   year  CDATA  #REQUIRED
+  >
+<!ATTLIST book
+   ID CDATA #REQUIRED
+  >

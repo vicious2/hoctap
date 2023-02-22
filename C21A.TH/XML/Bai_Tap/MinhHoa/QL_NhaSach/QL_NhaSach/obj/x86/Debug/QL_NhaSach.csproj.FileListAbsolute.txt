@@ -1,0 +1,9 @@
+D:\HK2_2017.2018\XML\QL_NhaSach\QL_NhaSach\bin\Debug\QL_NhaSach.exe
+D:\HK2_2017.2018\XML\QL_NhaSach\QL_NhaSach\bin\Debug\QL_NhaSach.pdb
+D:\HK2_2017.2018\XML\QL_NhaSach\QL_NhaSach\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\HK2_2017.2018\XML\QL_NhaSach\QL_NhaSach\obj\x86\Debug\QL_NhaSach.xxxx.resources
+D:\HK2_2017.2018\XML\QL_NhaSach\QL_NhaSach\obj\x86\Debug\QL_NhaSach.Properties.Resources.resources
+D:\HK2_2017.2018\XML\QL_NhaSach\QL_NhaSach\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\HK2_2017.2018\XML\QL_NhaSach\QL_NhaSach\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\HK2_2017.2018\XML\QL_NhaSach\QL_NhaSach\obj\x86\Debug\QL_NhaSach.exe
+D:\HK2_2017.2018\XML\QL_NhaSach\QL_NhaSach\obj\x86\Debug\QL_NhaSach.pdb

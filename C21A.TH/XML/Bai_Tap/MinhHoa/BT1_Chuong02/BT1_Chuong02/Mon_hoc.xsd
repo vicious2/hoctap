@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Mon_hoc"
+    targetNamespace="http://tempuri.org/Mon_hoc.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Mon_hoc.xsd"
+    xmlns:mstns="http://tempuri.org/Mon_hoc.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+
+  <xs:element name="DSMH" type="K_DSMH"></xs:element>
+
+  <xs:complexType name="K_DSMH">
+    <xs:sequence>
+      <xs:element name="MONHOC" type="K_MONHOC" minOccurs="1" maxOccurs="unbounded"></xs:element> 
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="K_MONHOC">
+    <xs:sequence>
+      <xs:element name="MAMH" type="xs:string"></xs:element>
+      <xs:element name="TENMH" type="xs:string"></xs:element>
+      <xs:element name="SOTC" type="K_SOTC"></xs:element>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:simpleType name="K_SOTC">
+    <xs:restriction base="xs:int">
+      <xs:minInclusive value="2"></xs:minInclusive>
+      <xs:maxInclusive value="5"></xs:maxInclusive>
+    </xs:restriction>
+  </xs:simpleType>
+  
+</xs:schema>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<DAGIAC xmlns="http://tempuri.org/Da_giac.xsd">
+  <DIEM Ten="A" x="1" y="10"/>
+  <DIEM Ten="B" x="10" y="20"/>
+  <DIEM Ten="C" x="5" y="10"/> 
+</DAGIAC>
