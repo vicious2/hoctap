@@ -273,7 +273,7 @@ namespace BT01_Mo_hinh_ngat_ket_noi_Sinh_vien
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 17F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Navy;
-            this.ClientSize = new System.Drawing.Size(537, 248);
+            this.ClientSize = new System.Drawing.Size(597, 371);
             this.Controls.Add(this.lblSTT);
             this.Controls.Add(this.cbokhoa);
             this.Controls.Add(this.dtpngaysinh);
@@ -300,7 +300,7 @@ namespace BT01_Mo_hinh_ngat_ket_noi_Sinh_vien
             this.Controls.Add(this.label1);
             this.Font = new System.Drawing.Font("Arial", 11F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ForeColor = System.Drawing.Color.White;
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Mô hình ngắt kết nối Sinh viên";
