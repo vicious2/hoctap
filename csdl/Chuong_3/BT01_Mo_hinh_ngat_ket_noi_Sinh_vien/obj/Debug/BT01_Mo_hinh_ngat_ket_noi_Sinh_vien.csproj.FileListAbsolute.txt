@@ -1,0 +1,10 @@
+D:\TH2\hoctap\csdl\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_Sinh_vien\bin\Debug\BT01_Mo_hinh_ngat_ket_noi_Sinh_vien.exe.config
+D:\TH2\hoctap\csdl\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_Sinh_vien\bin\Debug\BT01_Mo_hinh_ngat_ket_noi_Sinh_vien.exe
+D:\TH2\hoctap\csdl\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_Sinh_vien\bin\Debug\BT01_Mo_hinh_ngat_ket_noi_Sinh_vien.pdb
+D:\TH2\hoctap\csdl\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_Sinh_vien\obj\Debug\BT01_Mo_hinh_ngat_ket_noi_Sinh_vien.csproj.AssemblyReference.cache
+D:\TH2\hoctap\csdl\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_Sinh_vien\obj\Debug\BT01_Mo_hinh_ngat_ket_noi_Sinh_vien.Form1.resources
+D:\TH2\hoctap\csdl\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_Sinh_vien\obj\Debug\BT01_Mo_hinh_ngat_ket_noi_Sinh_vien.Properties.Resources.resources
+D:\TH2\hoctap\csdl\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_Sinh_vien\obj\Debug\BT01_Mo_hinh_ngat_ket_noi_Sinh_vien.csproj.GenerateResource.cache
+D:\TH2\hoctap\csdl\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_Sinh_vien\obj\Debug\BT01_Mo_hinh_ngat_ket_noi_Sinh_vien.csproj.CoreCompileInputs.cache
+D:\TH2\hoctap\csdl\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_Sinh_vien\obj\Debug\BT01_Mo_hinh_ngat_ket_noi_Sinh_vien.exe
+D:\TH2\hoctap\csdl\Chuong_3\BT01_Mo_hinh_ngat_ket_noi_Sinh_vien\obj\Debug\BT01_Mo_hinh_ngat_ket_noi_Sinh_vien.pdb
